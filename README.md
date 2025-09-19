@@ -1,55 +1,61 @@
-Bankist App 💳
+# Bankist App 💳
 
-Bankist App is a simple frontend application simulating a bank account.
-It allows users to log in, view their transactions, transfer money, request loans, sort transactions, and close accounts.
+https://nikoladackovic.github.io/Bankist-App-/
 
-⚡ Features
+Bankist App is a simple frontend application simulating a bank account.  
+It allows users to log in, view their transactions, transfer money, request loans, sort transactions, and close accounts.  
 
-Display current account balance
+---
 
-Track deposits and withdrawals
+## 📌 Table of Contents
 
-Transfer money between accounts
+- [Features](#-features)  
+- [Technologies](#-technologies)  
+- [What I Learned](#-what-i-learned)  
+- [Getting Started](#-getting-started)  
+- [Test Accounts](#-test-accounts)  
+- [Live Demo](#-live-demo)  
 
-Request a loan
+---
 
-Sort transactions (ascending/descending)
+### ⚡ Features
 
-Close an account
+- Display current account balance  
+- Track deposits and withdrawals  
+- Transfer money between accounts  
+- Request a loan  
+- Sort transactions (ascending/descending)  
+- Close an account  
+- Dynamic user interface updates  
 
-Dynamic user interface updates
+---
 
-🛠️ Technologies
+### 🛠️ Technologies
 
-JavaScript (ES6+)
+- JavaScript (ES6+)  
+- DOM manipulation  
+- Event handling  
+- Array methods: `map`, `filter`, `reduce`, `some`, `every`, `find`, `findIndex`  
+- ES6 features: `let/const`, arrow functions, optional chaining  
 
-DOM manipulation
+---
 
-Event handling
+### 📚 What I Learned
 
-Array methods: map, filter, reduce, some, every, find, findIndex
+This project was a hands-on practice for learning JavaScript and DOM manipulation.  
 
-ES6 features: let/const, arrow functions, optional chaining
+Key takeaways:
 
-📚 What I Learned
+- Better understanding of arrays and their methods (`map`, `filter`, `reduce`, etc.)  
+- Connecting logic with the user interface  
+- Practicing event handling and input validation  
 
-This project was a hands-on practice for learning JavaScript and DOM manipulation.
-While I haven’t fully mastered all concepts yet, working on it helped me to:
+Even though I’m still learning, this project shows my **motivation, curiosity, and willingness to experiment**.
 
-Better understand arrays and their methods (map, filter, reduce, etc.)
+---
+### 🧪 Test Accounts
+| User            | Username | PIN  |
+| --------------- | -------- | ---- |
+| Nikola Dackovic | nd       | 1111 |
+| Maja Jeremic    | mj       | 2222 |
 
-See how logic connects with the user interface
-
-Practice event handling and input validation
-
-The project shows my motivation, curiosity, and willingness to experiment, even while I’m still learning.
-
-🚀 How to Run
-
-Bankist App Live Demo
-
-Use the following test accounts:
-
-User	Username	PIN
-Nikola Dackovic	nd	1111
-Maja Jeremic	mj	2222
