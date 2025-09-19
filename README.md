@@ -53,8 +53,7 @@ Use the following test accounts:
 User	Username	PIN
 Nikola Dackovic	U: nd	P: 1111
 Maja Jeremic	U: mj	P: 2222
-Vuko Akovic	U: va	P: 3333
-Nikola Babic	U: nb	P: 4444
+
 🌟 Motivation & Effort
 
 This project represents my practical learning journey in JavaScript.
