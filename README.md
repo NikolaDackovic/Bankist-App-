@@ -27,7 +27,7 @@ DOM manipulation
 
 Event handling
 
-Array methods (map, filter, reduce, some, every, find, findIndex)
+Array methods: map, filter, reduce, some, every, find, findIndex
 
 ES6 features: let/const, arrow functions, optional chaining
 
@@ -42,19 +42,14 @@ See how logic connects with the user interface
 
 Practice event handling and input validation
 
-The project shows my motivation, curiosity, and willingness to experiment, even when I’m still learning.
+The project shows my motivation, curiosity, and willingness to experiment, even while I’m still learning.
 
 🚀 How to Run
-https://nikoladackovic.github.io/Bankist-App-/
 
+Bankist App Live Demo
 
 Use the following test accounts:
 
 User	Username	PIN
-Nikola Dackovic	U: nd	P: 1111
-Maja Jeremic	U: mj	P: 2222
-
-🌟 Motivation & Effort
-
-This project represents my practical learning journey in JavaScript.
-Even though I’m not yet fully confident with all features, I built it to experiment, practice, and understand key concepts, showing my dedication and willingness to improve.
+Nikola Dackovic	nd	1111
+Maja Jeremic	mj	2222
